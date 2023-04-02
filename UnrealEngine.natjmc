@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NonUserCode xmlns="http://schemas.microsoft.com/vstudio/debugger/jmc/2015">
+
+
+	<Function Name="SPanel::OnPaint" Module="UnrealEditor-SlateCore.dll"/>
+	<Function Name="SPanel::PaintArrangedChildren" Module="UnrealEditor-SlateCore.dll"/>
+	<Function Name="SWidget::OnPaint"  Module="UnrealEditor-SlateCore.dll"/>
+	<Function Name="SWidget::Paint"  Module="UnrealEditor-SlateCore.dll"/>
+	<Function Name="TSlateDecl&lt;*&gt;*"/>
+
+	<Function Name="Invoke&lt;*&gt;"/>
+
+	<Function Name="TDelegate&lt;*&gt;::Execute&lt;*&gt;"/>
+	<Function Name="TDelegate&lt;*&gt;::ExecuteIfBound&lt;*&gt;"/>
+	<Function Name="TBaseSPMethodDelegateInstance&lt;*&gt;::ExecuteIfSafe"/>
+	<Function Name="TBaseRawMethodDelegateInstance&lt;*&gt;::ExecuteIfSafe"/>
+	<Function Name="TBaseFunctorDelegateInstance&lt;*&gt;::ExecuteIfSafe"/>
+	<Function Name="TBaseUFunctionDelegateInstance&lt;*&gt;::ExecuteIfSafe"/>
+	<Function Name="TBaseUObjectMethodDelegateInstance&lt;*&gt;::ExecuteIfSafe"/>
+	<Function Name="TBaseStaticDelegateInstance&lt;*&gt;::ExecuteIfSafe"/>
+	<Function Name="TWeakBaseFunctorDelegateInstance&lt;*&gt;::ExecuteIfSafe"/>
+
+	<Function Name="TMulticastScriptDelegate&lt;*&gt;::ProcessMulticastDelegate&lt;*&gt;"/>
+
+</NonUserCode>

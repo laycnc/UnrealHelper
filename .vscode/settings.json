@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "*.natjmc": "xml"
+        "*.natjmc": "xml",
+        "*.natstepfilter": "xml",
     }
 }

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NonUserCode xmlns="http://schemas.microsoft.com/vstudio/debugger/jmc/2015">
+	<Function Name="UObject::execCallMathFunction"/>
+	<Function Name="FFrame::Step"/>
+	<Function Name="ProcessLocalScriptFunction"/>
+	<Function Name="ProcessScriptFunction&lt;*&gt;"/>
+	<Function Name="ProcessLocalFunction"/>
+	<Function Name="UObject::ProcessInternal"/>
+	<Function Name="UFunction::Invoke"/>
+	<Function Name="UObject::ProcessEvent"/>
+	<Function Name="AActor::ProcessEvent"/>
+	<Function Name="FCallDelegateHelper::CallMulticastDelegate"/>
+</NonUserCode>
